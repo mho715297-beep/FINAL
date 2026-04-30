@@ -16,7 +16,8 @@
 
 # Features
 * After opening the window 3 buttons will pop up with different commands.
+* The top most butoon will allow you to restore the pivot to the selected object to the world origin
 
-<img src="pivotTool" width=300>
+<img src="assets/FinalTool.png" width=300>
 
 * test
