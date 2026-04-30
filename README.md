@@ -1,4 +1,4 @@
-# Maya Rigging Tools
+# FINAL -- Pivot Tool 
 ----------------------------------------------
 
 ## How to install
@@ -8,12 +8,10 @@
 |------|-------| 
 |Python| 3.12  | 
 |PySide| 6     |
-|Maya  |>=2025 | 
+|Maya  |>=2026 | 
 
 ## Limb Rigger
 
-<img src="assets/YourMom.png" width=300>
-
-* Rig arms and Legs with ikfk blend
+<img src="PivotTool" width=300>
 
 * test

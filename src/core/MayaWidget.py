@@ -21,4 +21,4 @@ class MayaWidget(QWidget):
         self.setObjectName(self.GetWidgetHash()) 
 
     def GetWidgetHash(self):
-        return"6fb6a873d7fd8c265061ea7518bea0eed69201b0b6bdb7eecb93a2d94a0a3251"
+        return"fa5bd6761028bf717db42f109cf2179cd258a3d3e4edb91e0550201e07754be5"
