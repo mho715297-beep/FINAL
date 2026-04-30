@@ -16,7 +16,9 @@
 
 # Features
 * After opening the window 3 buttons will pop up with different commands.
-* The top most butoon will allow you to restore the pivot to the selected object to the world origin
+* The top most button will allow you to restore the pivot to the selected object to the world origin AFTER MOVING TO A DIFFERENT LOCATION
+* The middle most button is to save the pivot of the object after selection
+* The bottom button is to change the pivot back to location it was moved to after world origin
 
 <img src="assets/FinalTool.png" width=300>
 
