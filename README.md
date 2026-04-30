@@ -22,4 +22,7 @@
 
 <img src="assets/FinalTool.png" width=300>
 
-* test
+# Widget Icon
+-------------------------------------------
+
+<img src="assets/PivotTool.png" width=300>
